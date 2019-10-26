@@ -73,3 +73,17 @@ background: #39448c !important;
 h6 {
 line-height: 1.7;
 }
+
+/*  */
+@media (max-width: 991px) {
+    #projects {
+        margin-top: 100px;
+    }
+}
+
+/*  */
+
+
+html {
+  scroll-behavior: smooth;
+}
