@@ -86,4 +86,11 @@ line-height: 1.7;
 
 html {
   scroll-behavior: smooth;
-}
+};
+
+/*  */
+
+.carousel {
+    width:640px;
+    height:360px;
+  }
