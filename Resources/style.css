@@ -141,3 +141,16 @@ a{
   text-align: center;
 }
 
+/* Carousel images */
+
+#trova-logo{
+  background: #e0ffa5;
+}
+
+#hamJars-logo{
+  background: #f9eba4;
+}
+
+#ff-logo{
+  background: #fbf22f;
+}
